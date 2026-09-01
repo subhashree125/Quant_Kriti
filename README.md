@@ -1,6 +1,6 @@
 # Quantitative Trading Strategy Backtest
 
-A long-only quantitative equity backtester for Indian NSE stocks, built as a competition entry for BeyondIRR Group / LevUp. The strategy combines relative strength filtering, residual momentum scoring, and mean-variance portfolio optimisation, benchmarked against the Nifty 500 index.
+A long-only quantitative equity backtester for Indian NSE stocks. The strategy combines relative strength filtering, residual momentum scoring, and mean-variance portfolio optimisation, benchmarked against the Nifty 500 index.
 
 ---
 
